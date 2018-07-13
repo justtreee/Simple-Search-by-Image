@@ -15,3 +15,6 @@
 # 使用
 
 运行`Service/gui.py`
+
+# 详细介绍
+![https://github.com/justtreee/Simple-Search-by-Image/tree/master/note](https://github.com/justtreee/Simple-Search-by-Image/tree/master/note)
